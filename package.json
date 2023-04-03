@@ -1,0 +1,16 @@
+{
+  "name": "svglogomaker",
+  "version": "1.0.0",
+  "description": "Creates an svg file based of user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "node jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "jest": "^29.5.0"
+  }
+}
