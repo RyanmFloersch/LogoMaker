@@ -4,7 +4,7 @@
   "description": "Creates an svg file based of user input",
   "main": "index.js",
   "scripts": {
-    "test": "node jest"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
