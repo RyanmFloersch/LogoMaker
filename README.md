@@ -1,2 +1,2 @@
 # svgLogoMaker
-Creates an svg file based of user input
+Creates an svg file based of user input. The application accomplishes this through javascript by prompting the users through the terminal using the inquirer package. The file is then written and saved to the example folder. The user is prompted for the text, text color, shape, and shape color. The file also makes use of other helper functions within files located in lib to define the shapes properties and to ensure validate the user input. The application also made use of the jest package to test the application against test cases. 
